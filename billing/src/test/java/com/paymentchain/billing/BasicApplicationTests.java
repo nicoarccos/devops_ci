@@ -10,7 +10,11 @@ public class BasicApplicationTests  {
 
     @Test
     void contextLoads() {
+<<<<<<< HEAD
        String message = "Default Message Cambio 11 prueba devops";
+=======
+       String message = "Default Message Cambio test devops de nuevo";
+>>>>>>> origin/master
         assertNotNull(message);
     }
 }
